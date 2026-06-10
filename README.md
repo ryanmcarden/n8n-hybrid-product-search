@@ -181,4 +181,4 @@ The generic schema this workflow expects is documented in [`products.sql`](produ
 
 ---
 
-*Built and maintained by [Ryan Carden](https://ryancarden.com) · [LinkedIn](https://linkedin.com/in/ryancarden)*
+*Built and maintained by [Ryan Carden](https://ryancarden.com) · [LinkedIn](https://linkedin.com/in/ryanmcarden)*
